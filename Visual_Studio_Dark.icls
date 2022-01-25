@@ -1,23 +1,39 @@
 <scheme name="Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
   <metaInfo>
-    <property name="created">2022-01-24T14:03:49</property>
+    <property name="created">2022-01-25T10:27:07</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-01-24T14:04:02</property>
+    <property name="ideVersion">2021.3.2.0.0</property>
+    <property name="modified">2022-01-25T10:27:28</property>
     <property name="originalScheme">_@user_Visual Studio Dark</property>
   </metaInfo>
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="90911" />
-    <option name="DOCUMENTATION_COLOR" value="90911" />
-    <option name="GUTTER_BACKGROUND" value="90911" />
-    <option name="INFORMATION_HINT" value="90911" />
-    <option name="LOOKUP_COLOR" value="90911" />
+    <option name="CARET_ROW_COLOR" value="292929" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="101010" />
+    <option name="DOCUMENTATION_COLOR" value="141414" />
+    <option name="GUTTER_BACKGROUND" value="101010" />
+    <option name="INDENT_GUIDE" value="" />
+    <option name="INFORMATION_HINT" value="141414" />
+    <option name="LOOKUP_COLOR" value="141414" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
+    <option name="ScrollBar.thumbColor" value="101010" />
   </colors>
   <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="101010" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="141414" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="dcdcdc" />
-        <option name="BACKGROUND" value="90911" />
+        <option name="BACKGROUND" value="101010" />
       </value>
     </option>
   </attributes>
